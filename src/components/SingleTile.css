@@ -1,0 +1,18 @@
+.tile {
+  position: relative;
+}
+
+.tile-look {
+  background-color: #fff;
+  min-width: 128px;
+  min-height: 128px;
+  font-size: 64px;
+  line-height: 50px;
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  align-items: center;
+  vertical-align: center;
+  border: 2px solid #000;
+  border-radius: 6px;
+}
